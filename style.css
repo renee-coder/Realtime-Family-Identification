@@ -1,0 +1,44 @@
+body{
+    background:url(background.jpg) ;
+    background-size:cover;
+}
+.heading{
+    font-size: 23px;
+    width: 95%;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 30px;
+}
+.heading_div{
+    float: none;
+    background-color: white;
+    padding:10px ;
+    border-radius: 30px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+  
+}
+.heading_div2{
+    font-size: 18px;
+}
+.result_para_tag{
+    box-shadow: 5px 5px 5px rgb(22, 164, 177);
+    font-size:20px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:white;
+    width:100%;
+    bottom: 0;
+    background-color: rgb(84, 54, 182);
+    line-height: 3;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 16px;
+
+}
+canvas{
+    border-radius:20px;
+    border:5px solid white;
+    box-shadow: 7px 7px 7px indigo;
+    margin-top:150px;
+}
